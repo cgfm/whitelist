@@ -1,1 +1,2 @@
 @@|*.wt-safetag.com^$important
+@@|*.shop-apotheke.com^$important
