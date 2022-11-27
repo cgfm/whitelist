@@ -1,3 +1,4 @@
 @@|*.wt-safetag.com^$important
 @@|*.shop-apotheke.com^$important
 @@|*.ernstings-family.de^$important
+@@|aax-eu.amazon.de^$important
