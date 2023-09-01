@@ -4,3 +4,4 @@
 @@|aax-eu.amazon.de^$important
 @@|*.intelliad.de^$important
 @@|*.adcell.de^$important
+@@|*.adcell.com^$important
