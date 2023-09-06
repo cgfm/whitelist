@@ -5,3 +5,4 @@
 @@|*.intelliad.de^$important
 @@|*.adcell.de^$important
 @@|*.adcell.com^$important
+@@|*.clickcease.com^$important
