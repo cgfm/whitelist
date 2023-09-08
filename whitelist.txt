@@ -5,5 +5,6 @@
 @@|*.intelliad.de^$important
 @@|*.adcell.de^$important
 @@|*.adcell.com^$important
+@@|*.everesttech.com^$important
 @@|*.clickcease.com^$important
 @@|*.exponea.com^$important
