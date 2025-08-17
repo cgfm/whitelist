@@ -8,3 +8,6 @@
 @@|*.everesttech.com^$important
 @@|*.clickcease.com^$important
 @@|*.exponea.com^$important
+@@||statsig.anthropic.com^$important
+@@||anthropic.com^$important
+@@||api.anthropic.com^$important
